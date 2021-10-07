@@ -4,7 +4,7 @@ import asyncio
 import discord  
 
 #Unique token for the bot
-token = "NTE1MjA0NzQ2ODQwMzc1MzE2.W_bbzw.lQ3oTyo0eRa8ZRGs5kUXIYZxKbQ"
+token = ""
 client = discord.Client()   
 
 #Code for scraping the webpage, returns a BS object
